@@ -1,0 +1,24 @@
+{
+  "name": "exercises-programming",
+  "version": "1.0.0",
+  "description": "it's a few exercises of programming in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/**.test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "colors": "^1.3.0",
+    "mocha": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mevg/exercises-programming.git"
+  },
+  "author": "mevg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mevg/exercises-programming/issues"
+  },
+  "homepage": "https://github.com/mevg/exercises-programming#readme"
+}
